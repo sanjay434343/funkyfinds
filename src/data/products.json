@@ -1,0 +1,316 @@
+{
+  "products": [
+    {
+      "id": "classic-cotton-casual-shirt",
+      "name": "Classic Cotton Casual Shirt",
+      "description": "A comfortable and stylish casual shirt made from premium cotton.",
+      "price": 49.99,
+      "category": "Clothing",
+      "subCategory": "Men's Shirts",
+      "images": [
+        "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?w=800",
+        "https://images.unsplash.com/photo-1586363104862-3a5e2ab60d99?w=400"
+      ],
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["white", "blue", "black"],
+      "stock": 100,
+      "rating": 4.5,
+      "reviews": 128,
+      "features": [
+        "100% Premium Cotton",
+        "Regular Fit",
+        "Button-Down Collar",
+        "Machine Washable"
+      ],
+      "tags": ["casual", "cotton", "summer"]
+    },
+    {
+      "id": "floral-summer-dress",
+      "name": "Floral Summer Dress",
+      "description": "A lightweight and elegant summer dress with floral pattern.",
+      "price": 79.99,
+      "category": "Clothing",
+      "subCategory": "Women's Dresses",
+      "images": [
+        "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=800",
+        "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=400"
+      ],
+      "sizes": ["XS", "S", "M", "L"],
+      "colors": ["pink", "blue", "yellow"],
+      "stock": 75,
+      "rating": 4.8,
+      "reviews": 96,
+      "features": [
+        "Lightweight Fabric",
+        "Floral Pattern",
+        "A-Line Cut",
+        "Side Pockets"
+      ],
+      "tags": ["summer", "floral", "dress"]
+    },
+    {
+      "id": "premium-leather-jacket",
+      "name": "Premium Leather Jacket",
+      "description": "Classic leather jacket with modern details.",
+      "price": 299.99,
+      "category": "Clothing",
+      "subCategory": "Men's Outerwear",
+      "images": [
+        "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=800",
+        "https://images.unsplash.com/photo-1520975954732-35dd22299614?w=400"
+      ],
+      "sizes": ["M", "L", "XL"],
+      "colors": ["black", "brown"],
+      "stock": 50,
+      "rating": 4.9,
+      "reviews": 84,
+      "features": [
+        "Genuine Leather",
+        "Quilted Lining",
+        "Multiple Pockets",
+        "Heavy-Duty Zippers"
+      ],
+      "tags": ["leather", "outerwear", "premium"]
+    },
+    {
+      "id": "tailored-wool-blazer",
+      "name": "Tailored Wool Blazer",
+      "description": "Professional wool blazer with modern cut.",
+      "price": 189.99,
+      "category": "Clothing",
+      "subCategory": "Women's Blazers",
+      "images": [
+        "https://images.unsplash.com/photo-1520591799159-0c9489c0f137?w=800",
+        "https://images.unsplash.com/photo-1520591799159-0c9489c0f137?w=400"
+      ],
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": ["black", "navy", "gray"],
+      "stock": 60,
+      "rating": 4.7,
+      "reviews": 112,
+      "features": [
+        "Wool Blend",
+        "Fully Lined",
+        "Structured Shoulders",
+        "Double-Breasted"
+      ],
+      "tags": ["professional", "wool", "blazer"]
+    },
+    {
+      "id": "long-lasting-matte-lipstick",
+      "name": "Long-Lasting Matte Lipstick",
+      "description": "A vibrant matte lipstick with long-lasting color.",
+      "price": 19.99,
+      "category": "Makeup",
+      "subCategory": "Lipstick",
+      "images": [
+        "https://images.unsplash.com/photo-1575902280973-6206c7061dbf?w=800",
+        "https://images.unsplash.com/photo-1575902280973-6206c7061dbf?w=400"
+      ],
+      "sizes": ["full-size", "mini"],
+      "colors": ["red", "nude", "pink"],
+      "stock": 200,
+      "rating": 4.8,
+      "reviews": 150,
+      "features": [
+        "Matte Finish",
+        "Rich Pigmentation",
+        "Long-Lasting",
+        "Non-Drying"
+      ],
+      "tags": ["lipstick", "makeup", "matte"]
+    },
+    {
+      "id": "bluetooth-wireless-headphones",
+      "name": "Bluetooth Wireless Headphones",
+      "description": "High-quality wireless headphones with noise-cancelling feature.",
+      "price": 89.99,
+      "category": "Gadgets",
+      "subCategory": "Headphones",
+      "images": [
+        "https://images.unsplash.com/photo-1574624812841-bf3920c4006f?w=800",
+        "https://images.unsplash.com/photo-1574624812841-bf3920c4006f?w=400"
+      ],
+      "sizes": ["One Size"],
+      "colors": ["black", "white"],
+      "stock": 120,
+      "rating": 4.6,
+      "reviews": 220,
+      "features": [
+        "Noise-Cancelling",
+        "Bluetooth Connectivity",
+        "Comfortable Fit",
+        "Long Battery Life"
+      ],
+      "tags": ["headphones", "wireless", "electronics"]
+    },
+    {
+      "id": "latest-smartphone-model",
+      "name": "Latest Smartphone Model",
+      "description": "A high-end smartphone with a sleek design and powerful features.",
+      "price": 699.99,
+      "category": "Electronics",
+      "subCategory": "Smartphones",
+      "images": [
+        "https://images.unsplash.com/photo-1611295563096-df5d2304761a?w=800",
+        "https://images.unsplash.com/photo-1611295563096-df5d2304761a?w=400"
+      ],
+      "sizes": ["One Size"],
+      "colors": ["black", "silver", "gold"],
+      "stock": 80,
+      "rating": 4.7,
+      "reviews": 250,
+      "features": [
+        "5G Connectivity",
+        "120Hz Display",
+        "5000mAh Battery",
+        "Triple Camera"
+      ],
+      "tags": ["smartphone", "electronics", "5G"]
+    },
+    {
+      "id": "electric-blender",
+      "name": "High-Speed Electric Blender",
+      "description": "Powerful electric blender for smoothies and soups.",
+      "price": 129.99,
+      "category": "Home & Kitchen",
+      "subCategory": "Blenders",
+      "images": [
+        "https://images.unsplash.com/photo-1604014485610-1fd4ccbb9d88?w=800",
+        "https://images.unsplash.com/photo-1604014485610-1fd4ccbb9d88?w=400"
+      ],
+      "sizes": ["One Size"],
+      "colors": ["red", "black", "silver"],
+      "stock": 50,
+      "rating": 4.5,
+      "reviews": 160,
+      "features": [
+        "500W Motor",
+        "Multiple Speed Settings",
+        "Easy to Clean",
+        "Compact Design"
+      ],
+      "tags": ["blender", "kitchen", "appliance"]
+    },
+    {
+      "id": "premium-soccer-ball",
+      "name": "Premium Soccer Ball",
+      "description": "Durable and high-performance soccer ball.",
+      "price": 24.99,
+      "category": "Sports",
+      "subCategory": "Balls",
+      "images": [
+        "https://images.unsplash.com/photo-1542760620-c9ec338e3125?w=800",
+        "https://images.unsplash.com/photo-1542760620-c9ec338e3125?w=400"
+      ],
+      "sizes": ["One Size"],
+      "colors": ["white", "black"],
+      "stock": 100,
+      "rating": 4.8,
+      "reviews": 95,
+      "features": [
+        "High-Quality Stitching",
+        "Durable Leather Cover",
+        "Perfect for All Levels",
+        "International Standard"
+      ],
+      "tags": ["soccer", "ball", "sports"]
+    },
+    {
+      "id": "classic-leather-sneakers",
+      "name": "Classic Leather Sneakers",
+      "description": "Stylish and comfortable leather sneakers for everyday wear.",
+      "price": 69.99,
+      "category": "Footwear",
+      "subCategory": "Men's Sneakers",
+      "images": [
+        "https://images.unsplash.com/photo-1601160280746-5b473ec3c9ed?w=800",
+        "https://images.unsplash.com/photo-1601160280746-5b473ec3c9ed?w=400"
+      ],
+      "sizes": ["8", "9", "10", "11", "12"],
+      "colors": ["white", "black", "navy"],
+      "stock": 150,
+      "rating": 4.6,
+      "reviews": 180,
+      "features": [
+        "Genuine Leather",
+        "Breathable Lining",
+        "Rubber Sole",
+        "Stylish Design"
+      ],
+      "tags": ["sneakers", "casual", "footwear"]
+    },
+    {
+      "id": "elegant-gold-watch",
+      "name": "Elegant Gold Watch",
+      "description": "A luxurious gold-plated watch with timeless design.",
+      "price": 149.99,
+      "category": "Accessories",
+      "subCategory": "Watches",
+      "images": [
+        "https://images.unsplash.com/photo-1602267390002-e0a2eae68bc6?w=800",
+        "https://images.unsplash.com/photo-1602267390002-e0a2eae68bc6?w=400"
+      ],
+      "sizes": ["One Size"],
+      "colors": ["gold", "silver"],
+      "stock": 50,
+      "rating": 4.9,
+      "reviews": 230,
+      "features": [
+        "Gold Plating",
+        "Water-Resistant",
+        "Classic Design",
+        "Adjustable Strap"
+      ],
+      "tags": ["luxury", "watch", "accessories"]
+    },
+    {
+      "id": "classic-mystery-novel",
+      "name": "Classic Mystery Novel",
+      "description": "A gripping mystery novel full of suspense and intrigue.",
+      "price": 15.99,
+      "category": "Books",
+      "subCategory": "Fiction",
+      "images": [
+        "https://images.unsplash.com/photo-1521221773581-e70573cc2cf5?w=800",
+        "https://images.unsplash.com/photo-1521221773581-e70573cc2cf5?w=400"
+      ],
+      "sizes": ["One Size"],
+      "colors": ["black", "white"],
+      "stock": 200,
+      "rating": 4.7,
+      "reviews": 320,
+      "features": [
+        "Suspenseful Plot",
+        "Compelling Characters",
+        "Paperback Edition",
+        "200 Pages"
+      ],
+      "tags": ["mystery", "novel", "fiction"]
+    },
+    {
+      "id": "robot-building-toy-kit",
+      "name": "Robot Building Toy Kit",
+      "description": "Interactive robot building kit for kids to learn and play.",
+      "price": 29.99,
+      "category": "Toys",
+      "subCategory": "Educational Toys",
+      "images": [
+        "https://images.unsplash.com/photo-1602834573542-b032ed39adbf?w=800",
+        "https://images.unsplash.com/photo-1602834573542-b032ed39adbf?w=400"
+      ],
+      "sizes": ["One Size"],
+      "colors": ["multicolor"],
+      "stock": 120,
+      "rating": 4.8,
+      "reviews": 150,
+      "features": [
+        "STEM Learning",
+        "Interactive Features",
+        "Buildable Designs",
+        "For Ages 6+"
+      ],
+      "tags": ["toy", "robot", "educational"]
+    }
+  ]
+}

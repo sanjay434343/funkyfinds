@@ -1,0 +1,32 @@
+@import url('./styles/fonts.css');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.liquid-flow {
+  animation: liquid-flow 1s ease-in-out;
+  transition: transform 0.5s ease-in-out;
+}
+
+@keyframes liquid-flow {
+  0% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0); }
+}
+
+.velvet-fade {
+  animation: velvet-fade 1s ease-in;
+  transition: opacity 0.5s ease-in;
+}
+
+@keyframes velvet-fade {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+.neo-morph {
+  box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.2),
+              -8px -8px 15px rgba(255, 255, 255, 0.7);
+  border-radius: 20px;
+  transition: box-shadow 0.5s ease-in-out, border-radius 0.5s ease-in-out;
+}

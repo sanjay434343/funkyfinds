@@ -1,0 +1,56 @@
+{
+  "hero": {
+    "title": "Discover Your Style",
+    "subtitle": "Explore our curated collection of premium fashion pieces designed for the modern lifestyle.",
+    "cta": {
+      "primary": "Shop Now",
+      "secondary": "New Arrivals"
+    },
+    "image": "https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=1920"
+  },
+  "categories": [
+    {
+      "id": "men",
+      "name": "Men's Collection",
+      "image": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?w=800",
+      "description": "Timeless pieces for the modern gentleman"
+    },
+    {
+      "id": "women",
+      "name": "Women's Collection",
+      "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=800",
+      "description": "Elegant designs for every occasion"
+    }
+  ],
+  "features": [
+    {
+      "icon": "Truck",
+      "title": "Free Shipping",
+      "description": "On orders over $100"
+    },
+    {
+      "icon": "Shield",
+      "title": "Secure Payment",
+      "description": "100% secure payment"
+    },
+    {
+      "icon": "RefreshCw",
+      "title": "Easy Returns",
+      "description": "30-day return policy"
+    }
+  ],
+  "collections": [
+    {
+      "id": "summer-2024",
+      "name": "Summer Collection 2024",
+      "image": "https://images.unsplash.com/photo-1523359346063-d879354c0ea5?w=800",
+      "description": "Light and breezy pieces for the warm season"
+    },
+    {
+      "id": "workwear",
+      "name": "Modern Workwear",
+      "image": "https://images.unsplash.com/photo-1487222477894-8943e31ef7b2?w=800",
+      "description": "Professional attire with a contemporary twist"
+    }
+  ]
+}
